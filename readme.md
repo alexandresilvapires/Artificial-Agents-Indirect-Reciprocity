@@ -1,5 +1,6 @@
 # Source code for "Artificial Agents Facilitate Human Cooperation through Indirect Reciprocity"
-Published as a main track paper for ECAI 2024 (https://www.ecai2024.eu/)
+Published as a main track paper for ECAI 2024 (https://www.ecai2024.eu/).
+
 Link to be added.
 
 This folder contains all the source code to reproduce the results of the paper.
