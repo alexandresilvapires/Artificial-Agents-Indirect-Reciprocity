@@ -1,0 +1,9 @@
+Population Size = 100
+Type = Studying coop for different bs
+errorAssign = 0.01
+errorExecut = 0.01
+errorAssess = 0.01
+strengthOfSelection = 1.0
+mutationChance = 0.01
+Approximation Method = Average Rep State with Downsampling
+Population Sample Size = 25

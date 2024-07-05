@@ -1,0 +1,13 @@
+Population Size = 100
+fixedAAreputations = false
+fixedAARep = G
+Imit AAs = true
+errorAssign = 0.01
+errorExecut = 0.01
+errorAssess = 0.01
+strengthOfSelection = 1.0
+mutationChance = 0.01
+b = 2.0
+Fractions = Float32[0.0, 0.04, 0.08, 0.12, 0.16, 0.2, 0.24, 0.28, 0.32, 0.36, 0.4, 0.44, 0.48, 0.52, 0.56, 0.6, 0.64, 0.68, 0.72, 0.76, 0.8, 0.84, 0.88, 0.92, 0.96]
+Approximation Method = Average Rep State with Downsampling
+Population Sample Size = 25
